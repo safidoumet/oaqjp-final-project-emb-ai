@@ -1,0 +1,6 @@
+-project-emb-ai$ python3 -m pylint server.py
+************* Module server
+server.py:46:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.29/10 (previous run: 6.67/10, +2.62)
