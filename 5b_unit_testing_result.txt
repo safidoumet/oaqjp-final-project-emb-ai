@@ -1,0 +1,11 @@
+ject-emb-ai$ python3 -m unittest test_emotion_detection.py -v
+test_anger (test_emotion_detection.TestEmotionDetector) ... ok
+test_disgust (test_emotion_detection.TestEmotionDetector) ... ok
+test_fear (test_emotion_detection.TestEmotionDetector) ... ok
+test_joy (test_emotion_detection.TestEmotionDetector) ... ok
+test_sadness (test_emotion_detection.TestEmotionDetector) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.664s
+
+OK
